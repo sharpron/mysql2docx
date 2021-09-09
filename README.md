@@ -1,5 +1,5 @@
 # mysql2docx
-MySQL快速生产数据库设计文档
+MySQL快速生成数据库设计文档
 
 ### 使用
 
